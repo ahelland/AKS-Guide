@@ -7,7 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AKS-Web-App", "AKS-Web-App\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6D414909-5675-437D-AA8B-FFAA722AB173}"
 	ProjectSection(SolutionItems) = preProject
+		YAML\aksdotnet-dns.yaml = YAML\aksdotnet-dns.yaml
+		YAML\certifcates.yaml = YAML\certifcates.yaml
+		YAML\cluster-issuer.yaml = YAML\cluster-issuer.yaml
+		YAML\dashboard-admin.yaml = YAML\dashboard-admin.yaml
+		YAML\external-dns.yaml = YAML\external-dns.yaml
+		YAML\helm-rbac.yaml = YAML\helm-rbac.yaml
 		README.md = README.md
+		YAML\user-rbac.yaml = YAML\user-rbac.yaml
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "YAML", "YAML", "{862EE923-4002-4ED8-ACA0-D87B9B375CD9}"
